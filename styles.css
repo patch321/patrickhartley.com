@@ -4,6 +4,7 @@ html{
 
 body {
   background: #fff;
+  margin-bottom: 20px;
 }
 
 h1, h3, li {
@@ -187,4 +188,9 @@ hr.style-two {
     border: none;
     box-shadow: none;
     margin-top: 20px;
+}
+
+.link-target {
+  height: 1px;
+  margin-top: 150px;
 }
