@@ -1,7 +1,1 @@
-$(function(){
-        $("#typed").typed({
-            stringsElement: $('#typed-strings'),
-            typeSpeed: 50,
-            startDelay: 0
-        });
-    });
+console.log("CONNECTED!");
